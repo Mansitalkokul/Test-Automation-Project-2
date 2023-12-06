@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-28T18:29:05 IST" name="Assignment 14" finished-at="2023-11-28T18:29:54 IST" duration-ms="49563">
+    <groups>
+    </groups>
+    <test started-at="2023-11-28T18:29:05 IST" name="Function Test 4" finished-at="2023-11-28T18:29:54 IST" duration-ms="49563">
+      <class name="com.delta.mansi.Assingments.Project2.TestPage">
+        <test-method is-config="true" signature="initBrowser()[pri:0, instance:com.delta.mansi.Assingments.Project2.TestPage@f79e]" started-at="2023-11-28T18:29:05 IST" name="initBrowser" finished-at="2023-11-28T18:29:39 IST" duration-ms="34521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method signature="assignment14()[pri:0, instance:com.delta.mansi.Assingments.Project2.TestPage@f79e]" started-at="2023-11-28T18:29:39 IST" name="assignment14" finished-at="2023-11-28T18:29:54 IST" duration-ms="14917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assignment14 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.delta.mansi.Assingments.Project2.TestPage@f79e]" started-at="2023-11-28T18:29:54 IST" name="tearDown" finished-at="2023-11-28T18:29:54 IST" duration-ms="66" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.delta.mansi.Assingments.Project2.TestPage -->
+    </test> <!-- Function Test 4 -->
+  </suite> <!-- Assignment 14 -->
+</testng-results>

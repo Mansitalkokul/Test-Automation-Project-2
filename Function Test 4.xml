@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Assignment 14">
+    <test
+          name="Function Test 4">
+        <classes>
+            <class name="com.delta.mansi.Assingments.Project2.TestPage">
+            </class>
+        </classes>
+    </test>
+</suite>
